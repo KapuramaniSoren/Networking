@@ -1,13 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+// import Adder from "./mycode/adder"
+// import Trigger from './Nextstack-React js/trigger'
+// import Arrays from './mycode/arrays';
+// // import ArraysProject from "./mycode/arraysProject"
+// import TodoProject  from "./Nextstack-React js/TodoProject"
+// import Fetch from "./mycode/API/fetch"
+// import Post from "./mycode/API/post"
+// import Fetchaxios from "./mycode/API/fetchaxios"
+// import Axiosmethod from "./mycode/API/Axiosmethod"
+// // import Layout from "./MUI/Layout"
+// import Lifecycle from "./mycode/lifecycle"
+// import MaterialComp from './mycode/materialcomp';
+// import MaterialDialog from './mycode/materialDialog';
+import Router from './mycode/routing/route'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    < Router />
   </React.StrictMode>
 );
 

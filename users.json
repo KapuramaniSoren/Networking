@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "62f5bf7a6c4724651526114f"
+  },
+  "name": "Akash",
+  "city": "BLR",
+  "phone": 87654332
+},{
+  "_id": {
+    "$oid": "62f5c0c0dd9573242f5a79be"
+  },
+  "name": "Soumya",
+  "phone": "7654",
+  "city": "BBSR"
+},{
+  "_id": {
+    "$oid": "62f5c102dd9573242f5a79bf"
+  },
+  "name": "Biswa",
+  "phone": "3456",
+  "city": "BBSR"
+},{
+  "_id": {
+    "$oid": "62f5c118dd9573242f5a79c0"
+  },
+  "name": "Kapur",
+  "phone": "98765",
+  "city": "PDP"
+},{
+  "_id": {
+    "$oid": "62f5c2a7dd9573242f5a79c1"
+  },
+  "name": "DJ",
+  "city": "BLR",
+  "phone": 4563
+},{
+  "_id": {
+    "$oid": "62f5c2bfdd9573242f5a79c2"
+  },
+  "name": "Nilanchal",
+  "city": "CTC",
+  "phone": 33353461
+}]
